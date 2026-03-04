@@ -90,7 +90,7 @@ Metric **Recall** diprioritaskan karena **False Negative (pelanggan churn yang t
 ---
 
 # Tableau Dashboard
-
+https://public.tableau.com/app/profile/nisrina.musyaffa.aseno/viz/CustomerChurnRiskAnalysis/Dashboard12?publish=yes
 
 # Streamlit App
 
