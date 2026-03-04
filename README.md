@@ -8,7 +8,7 @@ Project **Customer Churn Prediction** merupakan project **machine learning** yan
 
 Model machine learning dibangun menggunakan data perilaku pelanggan seperti **aktivitas transaksi, penggunaan aplikasi, kepuasan pelanggan, serta interaksi dengan layanan**.
 
-Goal utama project ini adalah membantu perusahaan **mengidentifikasi pelanggan berisiko churn lebih awal**, sehingga perusahaan dapat melakukan strategi **customer retention yang lebih efektif dan terukur**.
+Goal utama project ini adalah membantu platform e-commerce di India **mengidentifikasi pelanggan berisiko churn lebih awal**, sehingga perusahaan dapat melakukan strategi **customer retention yang lebih efektif dan terukur**.
 
 ---
 
